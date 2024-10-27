@@ -1,0 +1,1 @@
+Hello from other file by fs readfile
