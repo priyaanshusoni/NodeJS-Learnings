@@ -7,7 +7,7 @@ const url = "mongodb+srv://admin:9509542525@priyanshu-projects.ugqlz.mongodb.net
 const client = new MongoClient(url)
 
 const dbname = "NodeJsPractice"
-
+k
 async function main(){
    await client.connect();
 
